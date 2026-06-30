@@ -1,4 +1,3 @@
-#translated using AI
 class Solution:
     def numberOfSubstrings(self, s: str) -> int:
         lastA = lastB = lastC = -1
