@@ -55,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -138,6 +139,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
