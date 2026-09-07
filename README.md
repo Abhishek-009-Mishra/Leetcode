@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -60,6 +61,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1140-stone-game-ii) |
