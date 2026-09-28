@@ -37,6 +37,7 @@
 | [1096-brace-expansion-ii](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -361,6 +362,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -440,4 +442,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
