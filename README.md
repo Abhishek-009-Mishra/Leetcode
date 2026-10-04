@@ -35,6 +35,7 @@
 | [0022-generate-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -78,6 +79,7 @@
 | [0022-generate-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1140-stone-game-ii) |
@@ -230,6 +232,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -375,6 +378,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -466,6 +470,7 @@
 | [0020-valid-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
