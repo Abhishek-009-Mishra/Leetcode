@@ -105,6 +105,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -209,6 +210,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -351,6 +353,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
