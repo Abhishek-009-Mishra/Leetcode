@@ -39,6 +39,7 @@
 | [0115-distinct-subsequences](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -433,6 +435,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -530,6 +533,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek-009-Mishra/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
